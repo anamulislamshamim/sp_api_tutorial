@@ -1,0 +1,3 @@
+pandas 
+python-amazon-sp-api 
+matplotlib 
